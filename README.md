@@ -1,6 +1,11 @@
 To compile the code:
-  - chmod +x httpclass.py
+
+  ```chmod +x httpclass.py```
+  
 To run the server:
-  - ./start.sh
+
+  ```./start.sh```
+  
 To stop the server:
-  - ./stop.sh
+
+  ```./stop.sh```
