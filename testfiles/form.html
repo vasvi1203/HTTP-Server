@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+
+    <h2>HTML Forms</h2>
+
+    <form action="/hello.html" method="POST" enctype="multipart/form-data">
+        <label for="fname">First name:</label><br>
+        <input type="text" id="fname" name="fname" value="John"><br>
+        <label for="lname">Last name:</label><br>
+        <input type="text" id="lname" name="lname" value="Doe"><br><br>
+        <label for="cars">Choose a car:</label>
+        <select id="cars" name="cars" size="4" multiple>
+            <option value="volvo">Volvo</option>
+            <option value="saab">Saab</option>
+            <option value="fiat">Fiat</option>
+            <option value="audi">Audi</option>
+         <label for="w3review">Review of W3Schools:</label>
+        <textarea id="w3review" name="w3review" rows="4" cols="50">
+        At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
+</textarea> 
+ <textarea id="w3re" name="w3revi" rows="4" cols="50">
+        At w3schools.com you will learn how to make a website. They offer free tutorials in all web development technologies.
+</textarea> 
+        </select><br><br> Select image to upload:
+        <input type="file" name="fileToUpload"><br>
+        <input type="submit" value="Submit">
+    </form>
+
+    <p>If you click the "Submit" button, the form-data will be sent to a page called "/action_page.php".</p>
+
+</body>
+
+</html>

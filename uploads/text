@@ -1,0 +1,215 @@
+
+Aayush Shah
+
+Computer Engineering, Batch of '21
+
+I am Aayush Shah (COEP - 21), and this document contains my opinions on the campus placement / internship selection process for the branches Computer Engg, Information Technology and EnTC for a Software Engineering role. All information is given in a question - answer format, divided into sections and in digestible chunks.
+
+Broadly speaking, this document breaks down the selection process, covers how to crack the aptitude test, coding test and the interview, and answers what are some good or bad practices as a Software Engineer. First we focus on what an interviewer looks for in a candidate, then we try to reverse engineer the type of profiles we can build for ourselves. Relevant resources are linked wherever applicable.
+
+FAQs covered:
+
+    THE CAMPUS PLACEMENT / INTERNSHIP SELECTION PROCESS
+    INTERVIEWER’S POINT OF VIEW
+    STUDENT’S POINT OF VIEW
+    THE APTITUDE TEST
+    THE CODING TEST
+    THE TECHNICAL INTERVIEW ROUND
+    THE HR INTERVIEW ROUND
+    HOW TO BUILD A RESUME
+
+1. THE CAMPUS PLACEMENT / INTERNSHIP SELECTION PROCESS
+
+Q. What were the companies that visited campus for TY internships in 2019?
+A. DE Shaw, Arcesium, Goldman Sachs, Credit Suisse, Standard Chartered Bank, FinIQ, MasterCard, Citi Bank, Schlumberger, Gilbarco, Bajaj Finance, UBS, Barclays, Persistent Systems, Wolters Kluwer, NTT Data
+
+Q. What is the campus placement/internship selection structure?
+A. Each section is detailed further in the document. Broadly, the structure is as follows: - Aptitude test - Coding test - Technical interview round - HR interview round
+
+Q. What is an Aptitude test?
+A. You will be tested in areas where you have no prior training or knowledge. The tests each have a standardised method of administration and scoring, with the results quantified and compared with all other test takers. You are tested on quantitative aptitude, data interpretation and logical reasoning, and English proficiency.
+
+Q. What is a coding test?
+A. Analogous to competitive coding, problems related to Data Structures and algorithms are given to you, to be solved in a given time limit. Number of questions and structure depend from company to company.
+
+Q. What is a technical interview round?
+A. You are tested on your concepts in computer science, and questions will be based on Data Structures and Algorithms. Third year onwards, questions based on Computer Networks, Database Management Systems, Operating Systems are included as well.
+
+Q. What is an HR interview round?
+A. Good academic records and sound technical knowledge alone are not sufficient to guarantee you a Job. Every company conducts an HR interview round to judge your personality, your strengths, your weaknesses, your capability to handle the role, to check your background, and to understand if you’re the right fit for this job. Usually the last round in the process.
+
+Q. How accurate is the selection process?
+A. Not completely accurate. Certain good candidates can get eliminated in the process.
+
+Q. Good resource for an overview on the entire process?
+A.
+
+    A Step by Step Guide for Placement Preparation | Set 1
+    A Step by Step Guide for Placement Preparation | Set 2
+
+2. INTERVIEWER’S POINT OF VIEW
+
+First, there are certain things you have to keep in mind about WHAT an interviewer is looking for in a candidate. You can reverse engineer what kind of profile you have to build using these pointers.
+
+Q. What are the interviewers looking for?
+
+    Coding Proficiency
+    Coding Proficiency, again - Specifically directed towards students who crack aptitudes without attempting coding sections.
+    Competence, commitment, management skills, damage control skills - Position/s of responsibility in Fests, clubs, participation in sports, etc
+    Effective communication skills, Body language
+    Your contribution in coding projects
+    Your contribution as a member of a technical club
+    Comfort using unfamiliar, new technologies
+    Minimal, to-the-point Resumes
+    What value you can add to the company. And not how the company helps you go in the direction you want in your career
+    Decent CGPA
+    (Optional) Letter of recommendations.
+    (Optional) Research publications 13.(Optional) Previous internship / job experience
+
+Q. What the interviewers are NOT looking for:
+
+    Cutting edge CGPA
+    Arrogance / Stubbornness about coding proficiency - NO! They are looking to get work done by an entry level engineer, and the last thing they would want is advice on how to do their job.
+    Certificates of participation in college events
+    Certificates of coordinator, volunteer, heads, etc in fests. NO! Multiple fests don’t get you extra points
+    Certificates of seminars, lectures, workshops attended
+    Multiple online courses or certifications - Viewing video lectures does not imply that you are a good coder
+    Colorful, shiny Resumes / CVs with confusing vocabulary
+    Resumes with spelling mistakes
+    Your plans for further studies (MS, MBA, MTech, etc) - NO! They don’t want a candidate who may reject the offer or leave the job to pursue studies
+    Hobbies - Unless you’re competing on a significant platform, they don’t care
+
+3. STUDENT’S POINT OF VIEW
+
+Q. What kind of profiles can I build as a student in computer engineering?
+A. These are the different profiles you can target to build, or have a mix of each.
+1. Projects Centric
+2. Competitive coding centric
+3. Extra-curricular centric (Fests, Sports, Non-technical clubs)
+4. Technical clubs centric
+5. Academics centric
+6. Online courses/certifications centric:
+
+Q. How beneficial is each of the profiles mentioned above?
+A. As follows:
+
+    Projects Centric: Having multiple projects on your resume SHOWS that you have done sufficient coding. Be it two or three big (significant/interesting) projects, or be it multiple mini projects using different technology stacks, you have to demonstrate that you are either proficient in one language, or are versatile/flexible and can work with new technologies relatively at ease. This will also help you breeze through your interview rounds as your interviewer can ask about your work in these projects. Majority of the companies are looking for engineers who can work on multiple platforms and adapt to new technologies. Proficiency is a plus only for core software companies, where you will be dealing with algorithms. You can steer the conversation during the interview to talk about what your contribution towards the project was, and what new technologies you learnt/mastered by doing that project. With a good hold over what you have EXACTLY done, you can impress the interviewer with how you tackled challenges in your project.
+    Competitive coding centric: If you are building a profile based on competitive coding, you need to have pretty significant ranks on competitive coding websites (A quantitative metric like number of stars, worldwide rank, or rank in a competition). Pretty interesting to boast about, and often invites more algorithm based questions during the interview. A big plus point for core software companies.
+    Extra-curricular centric (Fests, Sports, Non-technical clubs): Although a coding job, there is more to your job as an engineer rather than just outputting lines of code per day. A candidate with effective communication skills is of more value than a candidate with top notch coding but poor communication skills. This aspect is often underappreciated by students too focused on academics, and often over appreciated by students who are a part of 10 fests at once.
+    Technical clubs centric: Beneficial only if you have played a significant role. It helps to be able to elaborate exactly what you have worked on so far, the challenges you have faced, and how YOU tackled the challenge.
+    Academics centric: Beneficial only upto the cutoff CGPA. If you clear the cutoff, they probably don’t care, unless the cutoff is really low where they will ask for an explanation. Having a decent CGPA implies that you can put in effort where necessary, but does not imply that you are a good coder.
+    Online courses/certifications centric: Having developed new skills in different domains definitely helps. But, having knowledge helps only if you can put it to use. Quoting “Andrew NG” or Coursera or Udemy on your resume does not mean anything if you haven’t put in abundant hours building or working on a project in the same domain. Don’t be an online course junkie, it doesn’t help.
+
+Q. How to get multiple projects on your resume?
+A. Focus on the mini-projects in your curriculum, the syllabus covers a vast number of domains where you will be asked to work on mini projects as a part of academics. If you take it very seriously, you have the chance to cover a vast variety of domains as well as technology stacks.
+
+Q. How to be good at competitive coding/competitions? What are the resources for the same?
+A. Pick one out of HackerRank, HackerEarth, TopCoder, CodeChef, LeetCode, SPOJ, Kaggle, etc and start solving problems daily. You eventually get good at it after solving a significant number of problems.
+
+Q. How much to focus on extracurricular activities?
+A. As much you can manage to put in, as long as you can balance academics. Not a deal breaker, but there is no substitute for the soft and hard skills you develop. What most people fail to realize is that after the “fun” ends, hard work begins. If you are competing on a significant platform, you are demonstrating that you are a competent person, and have commitment. Be it college fests, or sports, or non-technical clubs, your efforts and achievements is what matters. There is a significant skill set you develop after working long hours, and this gives you an edge over most other candidates who don’t realize its importance. Extracurriculars teach you effective communication skills, management skills, commitment, team work, etc. A very important aspect in HR rounds, where several good candidates get rejected due to lack of extracurriculars.
+
+Q. How much to focus on academics?
+A. Number one priority. It is the most important aspect of your career. It will decide what kind of job or internship you will get. No, I am not talking about your CGPA. While you need to maintain CGPA above the cutoffs, having a clarity of whatever concepts you have studied so far in your academics goes a long way. You often get tested in your interviews on topics you have studied so far, and having a clear understanding helps more than you can imagine.
+
+Q. How much CGPA to maintain?
+A. There is no ideal CGPA, although the more the better. With respect to the companies coming for placement and internships in COEP, having a CGPA of 7.5+ is absolutely necessary and 8+ is decent. Almost no companies pick candidates based on CGPA alone, so one should not bank on it.
+
+Q. Are internships compulsory? Do I need to do an internship after SY? What if I don’t get an internship in TY? Are there people who don’t get an internship or don’t opt for one?
+A. No, internships are not compulsory for graduation. Coming to the second question, having an internship in SY summer vacation does not matter in the long term in affecting your chances of getting a TY internship or placement. Coming to the third question, if you do not get an internship by the end of the 5th semester, you should start searching for internships on various portals or through personal contacts. Although not compulsory, internships are crucial. However, there are students who do not opt for an internship too (Students preparing for entrance exams for MBA, UPSC, etc)
+
+Q. Should I apply elsewhere (outside college) for internships?
+A. Yes, why not. Campus placement is preferable because you are competing with your batchmates (students of similar caliber) so you have an approximate idea about where you stand. And since you are coming from a decent college, you have the opportunity to start your career with good companies.
+
+Q. Are internships THAT important?
+A. An internship experience is invaluable as the two months will teach you what you couldn’t learn in the two or three years of engineering. You have something to talk about in your future interviews, and working a real job is valued more than online courses or projects in the selection process. Regarding internship opportunities in TY, the companies that have hired you may offer you a Pre Placement Offer (PPO), thus very important. It is also important in the sense that your first real job will make you realize if you are comfortable in a desk job, coding for the rest of your future or not. Quite often, students do realize that they would rather shift domains if they see their worth elsewhere.
+4. THE APTITUDE TEST
+
+Q. What platform is used to conduct the tests?
+A. Usually HackerRank
+
+Q. What kind of questions are asked in the aptitude test?
+A. Follow the resources given below
+
+Q. Good resources to prepare for the aptitude test?
+A. Online Source: Aptitude Test Topics, Preparation book: R. S. Aggarwal, Puzzles: Puzzles , Mock Tests: Mock Aptitude Tests
+5. THE CODING TEST
+
+Q. Preferred languages for coding round?
+A. C++, Java or Python.
+
+Q. What are some tips for cracking the coding round?
+A. Be experienced in competitive coding. Have an appetite for creating algorithm based solutions for problems on your own. Solve problems on GeeksForGeeks question banks on the necessary topics, and practice competitive coding websites given below.
+
+Q. What are necessary topics for the coding round?
+A. As follows:
+
+    Data Structures - trees, tries, linked lists, graphs, stack, queue, heaps, vectors, arraylists, hash tables
+    Algorithms - Breadth first search, Depth first search, binary search, sorting algorithms (merge sort, quick sort)
+    Design questions - Object Oriented Programming
+    Recursion
+    Dynamic programming
+    Greedy Programming
+    Backtracking
+    Complex Database queries (Database management systems) in SQL
+
+Q. What are the resources for the same?
+A. For the given necessary topics: GeeksForGeeks and Cracking the Coding Interview For competitive coding - pick one out of HackerRank, HackerEarth, TopCoder, CodeChef, LeetCode, SPOJ, Kaggle, etc and start solving problems daily. You eventually get good at it after solving a significant number of problems.
+6. THE TECHNICAL INTERVIEW ROUND
+
+Q. Are there any specific requirements for top-tier companies?
+A. An extremely good hold over data structures and algorithms, apart from the necessary topics mentioned in the coding round
+
+Q. What are the necessary topics for a technical interview round?
+A. A good clarity of concepts and ability to write code on paper for the following topics:
+
+    Theory subjects (as covered in academics) - Data structures, Algorithms, Data Communication, Database management systems, Computer Networking, Operating Systems
+    Data Structures - trees, tries, linked lists, graphs, stack, queue, heaps, vectors, arraylists, hash tables
+    Algorithms - Breadth first search, Depth first search, binary search, sorting algorithms (merge sort, quick sort)
+    Time and space complexity concepts - Remember for ALL sorting algorithms
+    Design questions - Object Oriented Programming
+    Recursion
+    Dynamic programming
+    Greedy Programming
+    Backtracking
+    Complex Database queries (Database management systems) in SQL
+
+Q. What sort of questions were asked in the interviews?
+A. Nicely covered in the book linked in the resource.
+
+Q. How many questions are asked based on the projects done? How many questions were based on the resume?
+A. Depends on how well you can steer the conversation during the interview. If you have several interesting projects on your profile, it is a big plus if you are able to convey the effort you have put in on your projects. However, there are chances that you may not get asked about it at all. And regarding questions based on your resume, you should not have put anything on your resume that you may not be able to answer in the first place.
+
+Q. What are the resources for preparing for a technical interview?
+A. Preparation book: Cracking the Coding Interview
+Online resource - A Step by Step Guide for Placement Preparation | Set 1
+Online resource - A Step by Step Guide for Placement Preparation | Set 2
+7. THE HR INTERVIEW ROUND
+
+Q. What are some tips on how to prepare for the HR interview?
+A. Keep an answer ready for “Tell me about yourself” - Eventually every follow up question is based on this. This is the time to tell the interviewer about your extracurriculars and co-curriculars, and your achievements. The interviewer may ask questions regarding your family background, political affiliations, or a controversial/sensitive question that might put you off. They are asked to check your integrity, answer confidently. In the interview rounds, good communication skills will shine, as a candidate who does work and is not able to describe his work is of no use at all.
+
+Q. What are some resources to prepare for an HR round?
+A. https://www.geeksforgeeks.org/how-to-prepare-for-hr-interviews/
+8. HOW TO BUILD A RESUME
+
+Q. Should I use the template given by college, or prepare my own resume format?
+A. Prepare both, but avoid submitting the college template as far as possible. Your address, weight, caste, religion, sexual preferences or washing machine brand is way too much information, and they probably don’t need it.
+
+Q. What are some basic do’s and don’ts for resume building?
+A. As follows:
+
+    No spelling mistakes. As silly as this sounds, it is the most common error found on resumes.
+    Do not lie on your resume. Anything and everything written is subject to questions during the interview.
+    Do not use online templates. As far as possible, use either Latex, Adobe Illustrator, or Microsoft Word. All of them allow you to customize your resume to a very good extent.
+    Do not use bright, colorful, flashy text or layouts for your resume.
+    Do not overuse confusing vocabulary to the point where the reader does not understand what’s going on.
+    No more than one page. A very common beginner mistake is to give a very verbose description about every single thing on the document, which is unnecessary. Leave some details for discussion during the interview.
+    To the point, minimal resumes shine among others.
+    Personalize the resume for every company you’re applying for, according to the requirements or the job profile.
+    Highlight the sections which show what you are good at, and shift the remaining sections down.
+    Do not include these sections in the resume: hobbies, spoken languages proficiency, subjects undertaken
+
+
++91 77389 92210
+aayushbs17.comp@coep.ac.in
